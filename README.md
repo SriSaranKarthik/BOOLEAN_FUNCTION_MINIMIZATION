@@ -54,10 +54,6 @@ Developed by:K SriSaran Karthik RegisterNumber:*/24007192
 ![image](https://github.com/user-attachments/assets/f7839611-34d6-466c-9917-1b87a523e5df)
 
 
-**Timing Diagram**
-
-![image](https://github.com/user-attachments/assets/ce35b28f-da67-4442-a9a8-41cee7f22548)
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
